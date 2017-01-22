@@ -1,0 +1,27 @@
+# rasmussen
+ 
+<title>Add Employee</title>
+</head>
+<body>
+ 
+<form method="post" action="">
+<label>First Name</label>
+<input type="text" name="first_name" />
+<br />
+<label>Last Name</label>
+<input type="text" name="last_name" />
+<br />
+<label>Department</label>
+<input type="text" name="department" />
+<br />
+<label>Email</label>
+<input type="text" name="email" />
+ 
+<br />
+<input type="submit" value="Add Employee">
+</form>
+ 
+ 
+ 
+</body>
+</html>
